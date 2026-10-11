@@ -1,16 +1,15 @@
-# flutter_application_1
+# Tugas 2 Mobile — Katalog Buku
 
-A new Flutter project.
+Aplikasi katalog buku yang dibuat menggunakan Flutter dan bahasa pemrograman Dart.
 
-## Getting Started
+## Deskripsi
+Proyek ini merupakan tugas mata kuliah Mobile Programming yang berfokus pada pembuatan tampilan katalog buku.
 
-This project is a starting point for a Flutter application.
+## Teknologi
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan
+1. Pastikan Flutter sudah terinstal.
+2. Jalankan `flutter pub get` di terminal.
+3. Jalankan `flutter run` untuk menjalankan aplikasi.
